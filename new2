@@ -1,4 +1,6 @@
-ibjsjsajsaj 
-asdbkjasdjkdsaj
-sjbasdkjjsd
-kjbbkjsbjksad
+#!/bin/bash
+pwd 
+ls -ltr
+time
+ifconfig -a
+
